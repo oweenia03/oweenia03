@@ -10,7 +10,56 @@
 - Previously involved in **Sookmyung Information Security Study**, a university security research group
 - Currently an active member of **Outta AI**
 
+
 <br>
+
+### 🚀 Project
+
+<table>
+  <thead>
+    <tr>
+      <th>기간</th>
+      <th>프로젝트</th>
+      <th>소개</th>
+      <th>기술</th>
+      <th>바로보기</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2025.10 - 현재</td>
+      <td>Mogle</td>
+      <td>커스텀 공유 다이어리 웹앱</td>
+      <td>WEB</td>
+      <td>Mogle</td>
+    </tr>
+    <tr>
+      <td>2025.06</td>
+      <td>Sign2Text</td>
+      <td>실시간 수어 인식 기반 자막 생성기</td>
+      <td>Python, Mediapipe, PyQt</td>
+      <td><a href="https://github.com/Anjihee/Sign2Text">Sign2Text</a></td>
+    </tr>
+    <tr>
+      <td>2025.05-2025.06</td>
+      <td>WeStudy</td>
+      <td>그룹 화상 스터디 웹앱</td>
+      <td>Java, React</td>
+      <td><a href="https://github.com/2025-OOP/function">WeStudy</a></td>
+    </tr>
+    <tr>
+      <td>2024.08-2024.10</td>
+      <td>RFID-Powered-Self-Service-Store</td>
+      <td>자동 결제 및 재고 관리 기능을 제공하는 rfid 기반 무인 편의점 시스템 </td>
+      <td>Python, PHP, Arduino </td>
+      <td><a href="https://github.com/oweenia03/RFID-Powered-Self-Service-Store">RFID-Store</a></td>
+    </tr>
+    
+  </tbody>
+</table>
+
+
+</br>
 
 ## 🔆 Platform & Stack
 
