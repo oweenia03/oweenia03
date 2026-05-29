@@ -30,8 +30,8 @@
       <td>2026.05 - 2026.06</td>
       <td>LegalAI</td>
       <td>법률 특화 RAG 기반 챗봇</td>
-      <td>Python</td>
-      <td><a href="https://github.com/WebProgramming-2025-2/New_Front">LAI</a></td>
+      <td>Python, PyTorch, Transformers, FAISS, Streamlit</td>
+      <td><a href="https://github.com/oweenia03/DPR-project">LAI</a></td>
     </tr>
     <tr>
       <td>2025.10 - 2025.12</td>
