@@ -30,7 +30,7 @@
       <td>2026.05 - ? </td>
       <td>SMOKEORNOT</td>
       <td>흡연부스 입지 최적화 데이터 분석 연구</td>
-      <td>?/td>
+      <td>?</td>
       <td><a href="">스모콜</a></td>
     </tr>
     <tr>
