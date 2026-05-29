@@ -27,11 +27,18 @@
   </thead>
   <tbody>
     <tr>
+      <td>2026.05 - 2026.06</td>
+      <td>LegalAI</td>
+      <td>법률 특화 RAG 기반 챗봇</td>
+      <td>Python</td>
+      <td><a href="https://github.com/WebProgramming-2025-2/New_Front">LAI</a></td>
+    </tr>
+    <tr>
       <td>2025.10 - 2025.12</td>
       <td>Mogle</td>
       <td>커스텀 공유 다이어리 웹앱</td>
       <td>WEB</td>
-      <td>Mogle</td>
+      <td><a href="https://github.com/WebProgramming-2025-2/New_Front">Mogle</a></td>
     </tr>
     <tr>
       <td>2025.06</td>
