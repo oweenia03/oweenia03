@@ -27,7 +27,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>2025.10 - 현재</td>
+      <td>2025.10 - 2025.12</td>
       <td>Mogle</td>
       <td>커스텀 공유 다이어리 웹앱</td>
       <td>WEB</td>
