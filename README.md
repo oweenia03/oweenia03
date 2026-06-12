@@ -48,6 +48,14 @@
       <td><a href="https://github.com/WebProgramming-2025-2/New_Front">Mogle</a></td>
     </tr>
     <tr>
+      <td>2025.07-2026.01</td>
+      <td>LLM Fair Review</td>
+      <td>FBI : Detecting Intentional Benchmark Leakage in AI Research</td>
+      <td>논문</td>
+      <td><a href="https://openreview.net/forum?id=8kFiL9ohGk&referrer=%5Bthe%20profile%20of%20Minjeong%20Kim%5D(%2Fprofile%3Fid%3D~Minjeong_Kim5)">링크</a></td>
+    </tr>
+    <tr>
+    <tr>
       <td>2025.05-2025.06</td>
       <td>Sign2Text</td>
       <td>실시간 수어 인식 기반 자막 생성기</td>
