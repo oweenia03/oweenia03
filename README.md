@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my GitHub!</h1>
 
 ### 🔆 Minseo's Page
-- Sookmyung Women's University, AI Engineering Major
+- Sookmyung Women's University, AI Engineering Major with a Minor in Law
 - Previously involved in **Sookmyung Information Security Study**, a university security research group
 - Currently an active member of **Outta AI**(2024~)
 
