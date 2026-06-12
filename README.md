@@ -47,7 +47,7 @@
       <td>LLM Fair Review</td>
       <td>FBI : Detecting Intentional Benchmark Leakage in AI Research</td>
       <td>ICML 투고</td>
-      <td><a href="https://openreview.net/forum?id=8kFiL9ohGk&referrer=%5Bthe%20profile%20of%20Minjeong%20Kim%5D(%2Fprofile%3Fid%3D~Minjeong_Kim5)">링크</a></td>
+      <td><a href="https://github.com/oweenia03/FBI-Benchmark-Integrity">아카이빙</a></td>
     </tr>
     <tr>
     <tr>
