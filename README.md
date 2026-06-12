@@ -34,7 +34,7 @@
       <td><a href="">스모콜</a></td>
     </tr>
     <tr>
-      <td>2026.05-2024.06</td>
+      <td>2026.05-2026.06</td>
       <td>LegalAI</td>
       <td>법률 특화 RAG 기반 챗봇</td>
       <td>Python, PyTorch, Transformers, FAISS, Streamlit</td>
