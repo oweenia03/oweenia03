@@ -25,7 +25,7 @@
       <td>2026.06 - </td>
       <td>SMOKEORNOT</td>
       <td>서울시 흡연부스 입지 최적화 데이터 분석 연구</td>
-      <td>?</td>
+      <td>Python, DBSCAN, GeoPandas, Folium</td>
       <td><a href="">스모콜</a></td>
     </tr>
     <tr>
@@ -46,7 +46,7 @@
       <td>2025.07 - 2026.01</td>
       <td>LLM Fair Review</td>
       <td>FBI : Detecting Intentional Benchmark Leakage in AI Research</td>
-      <td>ICML 투고</td>
+      <td>submitted</td>
       <td><a href="https://github.com/oweenia03/FBI-Benchmark-Integrity">아카이빙</a></td>
     </tr>
     <tr>
