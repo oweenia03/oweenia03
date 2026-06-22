@@ -2,7 +2,7 @@
 
 ### 🔆 Minseo's Page
 - Sookmyung Women's University, AI Engineering Major with a Minor in Law
-- Previously involved in **Sookmyung Information Security Study**, a university security research group
+- Previously involved in **Sookmyung Information Security Study**(2024), a university security research group
 - Currently an active member of **Outta AI**(2024~)
 
 
@@ -26,7 +26,7 @@
       <td>SMOKEORNOT</td>
       <td>서울시 흡연부스 입지 최적화 데이터 분석 연구</td>
       <td>Python, DBSCAN, GeoPandas, Folium</td>
-      <td><a href="">스모콜</a></td>
+      <td><a href="https://github.com/oweenia03/SMOKOR">스모콜</a></td>
     </tr>
     <tr>
       <td>2026.05 - 06</td>
