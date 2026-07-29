@@ -3,7 +3,7 @@
 ### 🔆 Minseo's Page
 - Sookmyung Women's University, AI Engineering Major with a Minor in Law
 - Previously involved in **Sookmyung Information Security Study**(2024), a university security research group
-- Currently an active member of **Outta AI**(2024~), **Outta AI**(2026~), 
+- Currently an active member of **Outta AI**(2024~), **Boaz**(2026~), 
 
 
 <br>
