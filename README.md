@@ -22,7 +22,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>2026.06 - </td>
+      <td>2026.06 </td>
       <td>SMOKEORNOT</td>
       <td>서울시 흡연부스 입지 최적화 데이터 분석 연구</td>
       <td>Python, DBSCAN, GeoPandas, Folium</td>
