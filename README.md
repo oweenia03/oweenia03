@@ -47,7 +47,6 @@
       <td>LLM Fair Review</td>
       <td>FBI : Detecting Intentional Benchmark Leakage in AI Research</td>
       <td>submitted</td>
-      <td><a href="https://github.com/oweenia03/FBI-Benchmark-Integrity">아카이빙</a></td>
     </tr>
     <tr>
     <tr>
